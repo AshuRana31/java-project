@@ -1,1 +1,0 @@
-tring to adding branch name in git commit msg
